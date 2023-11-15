@@ -1,0 +1,472 @@
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "user" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 10
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 11
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "serviceType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 12
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "surgeryType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 13
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "duration" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 14
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "days" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 15
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "anesthesiaType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 16
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "age" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 17
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "diseasesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 18
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "electroSurgery" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 19
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "otherEquipment" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 20
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "suppliesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 21
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "area" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 22
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "additionalInfo" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 23
+[11-Oct-2023 03:29:47 Europe/Berlin] PHP Warning:  Attempt to read property "amount" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 24
+[10-Oct-2023 19:29:47 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:35
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 35
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "user" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 10
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 11
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "serviceType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 12
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "surgeryType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 13
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "duration" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 14
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "days" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 15
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "anesthesiaType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 16
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "age" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 17
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "diseasesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 18
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "electroSurgery" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 19
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "otherEquipment" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 20
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "suppliesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 21
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "area" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 22
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "additionalInfo" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 23
+[11-Oct-2023 03:29:49 Europe/Berlin] PHP Warning:  Attempt to read property "amount" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 24
+[10-Oct-2023 19:29:49 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:35
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(35): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 35
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "user" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 10
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "name" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 11
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "serviceType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 12
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "surgeryType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 13
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "duration" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 14
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "days" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 15
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "anesthesiaType" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 16
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "age" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 17
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "diseasesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 18
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "electroSurgery" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 19
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "otherEquipment" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 20
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "suppliesList" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 21
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "area" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 22
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "additionalInfo" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 23
+[11-Oct-2023 03:31:46 Europe/Berlin] PHP Warning:  Attempt to read property "amount" on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 24
+[10-Oct-2023 19:31:46 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:37
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(37): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 37
+Supplies List: Traje para cirujano descartable talla S,Supplies List: Traje para cirujano descartable talla S,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,Supplies List: Traje para cirujano descartable talla S,Traje para cirujano descartable talla XL,[11-Oct-2023 04:17:26 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 49
+[11-Oct-2023 04:17:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:49
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 49
+Supplies List: Traje para cirujano descartable talla S,[11-Oct-2023 04:19:06 Europe/Berlin] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 49
+[11-Oct-2023 04:19:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:49
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 49
+Supplies List: Gorro para enfermeria,FosforoSupplies List: Gorro para enfermeria,FosforoSupplies List: 13,20013,Gorro para enfermeria,insumo,534,,0.05,0,2,14,60009,Fosforo,examen,0,,0,6.97,2Supplies List: 7,20007,Paquete Basico descartable,insumo,35,,29,0,3,6,60001,Hemograma y plaquetas,examen,0,,0,6.28,4Supplies List: 7,20007,Paquete Basico descartable,insumo,,29,3,6,60001,Hemograma y plaquetas,examen,,0,,4[10-Oct-2023 20:48:04 America/El_Salvador] PHP Warning:  Array to string conversion in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 50
+Supplies List: 7,20007,Paquete Basico descartable,insumo,,29,3,6,60001,Hemograma y plaquetas,examen,,0,,4Supplies List: 35,20109,Tubo Endotraqueal sin balon #4,insumo,,2.75,4,10,60005,Sodio,examen,,0,,2[11-Oct-2023 04:52:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 9
+[11-Oct-2023 05:14:53 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:14:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 32,20106,Clips titanio Secure-Lock talla ML tipo ETHICON verde,insumo,4.50,2,8,60003,Creatinina,examen,0,1[10-Oct-2023 21:14:53 America/El_Salvador] PHP Warning:  Array to string conversion in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 47
+[11-Oct-2023 05:16:14 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:16:14 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 32,20106,Clips titanio Secure-Lock talla ML tipo ETHICON verde,insumo,4.50,2,8,60003,Creatinina,examen,0,1[11-Oct-2023 05:16:56 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:16:56 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 1,20001,Traje para cirujano descartable talla S,insumo,3.65,2,8,60003,Creatinina,examen,0,2[11-Oct-2023 05:19:13 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:19:13 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 1,20001,Traje para cirujano descartable talla S,insumo,3.65,2,8,60003,Creatinina,examen,0,2[11-Oct-2023 05:33:21 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:33:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: ,1 20001 Traje para cirujano descartable talla S insumo 3.65 2,,,8 60003 Creatinina examen  0 2,[11-Oct-2023 05:41:15 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:41:15 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 2,8 60003 Creatinina examen  0 2[11-Oct-2023 05:52:37 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:52:37 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 2[11-Oct-2023 05:53:20 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:53:20 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 2[11-Oct-2023 05:54:21 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 05:54:21 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 2Supplies List: 8 60003 Creatinina examen  0 2[11-Oct-2023 05:54:59 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 05:54:59 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 2Exame List: 8 60003 Creatinina examen  0 2[11-Oct-2023 05:55:46 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 05:55:46 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 2Exame List: 8, 60003, Creatinina, examen, , 0, 2[11-Oct-2023 05:59:07 Europe/Berlin] PHP Warning:  Undefined variable $suppliesParts in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:59:07 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 05:59:07 Europe/Berlin] PHP Warning:  Undefined variable $examsParts in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 05:59:07 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+names: names: Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 2Exame List: 8, 60003, Creatinina, examen, , 0, 2[10-Oct-2023 21:59:07 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:44
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(44): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+[11-Oct-2023 06:02:34 Europe/Berlin] PHP Warning:  Undefined variable $suppliesParts in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 06:02:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 29
+[11-Oct-2023 06:02:34 Europe/Berlin] PHP Warning:  Undefined variable $examsParts in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 06:02:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: 69|32Exame List: 32names: names: [10-Oct-2023 22:02:34 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:45
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(45): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 45
+Supplies List: 4|6Exame List: 8[10-Oct-2023 22:04:21 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:40
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(40): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+Supplies List: 1, 1Exame List: 10,1[10-Oct-2023 22:11:39 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:40
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(40): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+Supplies List: 32, 20106, Clips titanio Secure-Lock talla ML tipo ETHICON verde, insumo, 4.50, 2Exame List: 14, 60009, Fosforo, examen, , 0, 1[10-Oct-2023 22:13:44 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:40
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(40): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 2Exame List: 32, 60027, Proteina C Reactiva, examen, , 0, 1[10-Oct-2023 22:15:07 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:39
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(39): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[11-Oct-2023 06:16:30 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 06:16:30 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 3Exame List: 6, 60001, Hemograma y plaquetas, examen, , 0, 1Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 3Exame List: 6, 60001, Hemograma y plaquetas, examen, , 0, 1[11-Oct-2023 06:26:50 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 3Exame List: 6 60001 Hemograma y plaquetas examen  0 1[10-Oct-2023 22:26:50 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:61
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(61): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 61
+[11-Oct-2023 06:29:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+Supplies List: 1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 3Exame List: 10 60005 Sodio examen  0 1[10-Oct-2023 22:29:38 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:61
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(61): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 61
+[11-Oct-2023 06:32:36 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:32:36 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: 1 20001 Traje para cirujano descartable talla S insumo 3.65 3Exame List: 6 60001 Hemograma y plaquetas examen  0 1[10-Oct-2023 22:32:36 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:65
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(65): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 65
+[11-Oct-2023 06:34:33 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:34:33 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: 953 R00071 Ac IgM/IgG COVID19 cuantitativo insumo 2.18 2Exame List: 6 60001 Hemograma y plaquetas examen  0 1Exame List: [10-Oct-2023 22:34:33 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:66
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(66): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 66
+[11-Oct-2023 06:37:56 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:37:56 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: 6 20006 bata Gabachon descartable insumo 4.34 3Exame List: 100 60071 Frotis de Sangre Periferica examen  0 1Exame List: [10-Oct-2023 22:37:56 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:66
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(66): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 66
+[11-Oct-2023 06:46:35 Europe/Berlin] PHP Warning:  Undefined variable $supplyElements in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+[11-Oct-2023 06:46:35 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 30
+Supplies List: Exame List: [11-Oct-2023 06:46:55 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:46:55 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: Exame List: [10-Oct-2023 22:46:55 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'cirugia' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:65
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(65): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 65
+[11-Oct-2023 06:49:01 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:49:01 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: Exame List: [10-Oct-2023 22:49:01 America/El_Salvador] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #9 cannot be passed by reference in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 63
+[11-Oct-2023 06:50:37 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 36
+[11-Oct-2023 06:50:37 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+Supplies List: 34 30034 Galleta Waffle alimento 0.75 3Exame List: 32 60027 Proteina C Reactiva examen  0 1Supplies List: 34, 30034, Galleta Waffle, alimento, 0.75, 3Exame List: 32, 60027, Proteina C Reactiva, examen , 0, 1Supplies List: 34, 30034, Galleta Waffle, alimento, 0.75, 3|1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 1Exame List: 32, 60027, Proteina C Reactiva, examen , 0, 1Supplies List: 34, 30034, Galleta Waffle, alimento, 0.75, 3|1, 20001, Traje para cirujano descartable talla S, insumo, 3.65, 1Exame List: 32, 60027, Proteina C Reactiva, examen , 0, 1[10-Oct-2023 23:08:38 America/El_Salvador] PHP Warning:  Undefined variable $suppliesArray2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 66
+[10-Oct-2023 23:08:38 America/El_Salvador] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 66
+[10-Oct-2023 23:08:38 America/El_Salvador] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:98
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(98): mysqli_stmt->bind_param('sssdds', '60027', 'Proteina C Reac...', 0, '0', '1', 'examen ', 'SELECT * FROM c...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 98
+Supplies List: 32, 20106, Clips titanio Secure-Lock talla ML tipo ETHICON verde, insumo, 4.50, 2Exame List: 6, 60001, Hemograma y plaquetas, examen , 0, 1[10-Oct-2023 23:22:03 America/El_Salvador] PHP Fatal error:  Uncaught Error: mysqli_stmt object is already closed in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:110
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(110): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 110
+[10-Oct-2023 23:26:11 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'otros' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:67
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 67
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[11-Oct-2023 07:37:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[10-Oct-2023 23:37:21 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'nombre' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:87
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(87): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 87
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[11-Oct-2023 07:44:07 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[11-Oct-2023 07:49:54 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[11-Oct-2023 07:49:54 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[11-Oct-2023 07:49:54 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[11-Oct-2023 07:49:54 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[11-Oct-2023 07:49:54 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[10-Oct-2023 23:49:54 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'nombre' cannot be null in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php:88
+Stack trace:
+#0 C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php(88): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 88
+[11-Oct-2023 07:59:48 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[11-Oct-2023 07:59:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[11-Oct-2023 07:59:48 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[11-Oct-2023 07:59:48 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[11-Oct-2023 07:59:48 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[11-Oct-2023 08:00:35 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[11-Oct-2023 08:00:35 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[11-Oct-2023 08:00:35 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[11-Oct-2023 08:00:35 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[11-Oct-2023 08:00:35 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[11-Oct-2023 19:24:42 America/El_Salvador] PHP Warning:  Undefined variable $scheduleQueryResult in C:\xampp\htdocs\app\scheduleSurgery\saveSchedule.php on line 79
+[11-Oct-2023 19:24:42 America/El_Salvador] PHP Warning:  Attempt to read property "connect_error" on null in C:\xampp\htdocs\app\scheduleSurgery\saveSchedule.php on line 79
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 05:31:58 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 05:33:58 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 05:34:51 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 07:34:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 07:39:49 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 07:40:11 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 07:40:29 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[18-Oct-2023 07:41:35 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[19-Oct-2023 05:02:22 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[20-Oct-2023 03:48:00 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[20-Oct-2023 03:48:00 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[20-Oct-2023 03:48:00 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[20-Oct-2023 03:48:00 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[20-Oct-2023 03:48:00 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[20-Oct-2023 03:49:30 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[20-Oct-2023 03:52:57 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[20-Oct-2023 03:52:57 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[20-Oct-2023 03:52:57 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[20-Oct-2023 03:52:57 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[20-Oct-2023 03:52:57 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[20-Oct-2023 04:01:03 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[20-Oct-2023 04:02:14 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[21-Oct-2023 22:52:24 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[21-Oct-2023 22:52:49 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[22-Oct-2023 01:12:11 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[22-Oct-2023 01:18:44 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[22-Oct-2023 01:41:21 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[22-Oct-2023 01:46:38 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 39
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 54
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 55
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 56
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[24-Oct-2023 02:59:46 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 59
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 60
+[24-Oct-2023 04:48:28 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 61
+[24-Oct-2023 04:48:42 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 57
+[24-Oct-2023 04:48:42 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 58
+[24-Oct-2023 04:48:42 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 59
+[24-Oct-2023 04:48:42 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 60
+[24-Oct-2023 04:48:42 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 61
+[24-Oct-2023 04:49:03 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 40
+[24-Oct-2023 04:49:03 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 41
+[24-Oct-2023 04:49:03 Europe/Berlin] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 42
+[24-Oct-2023 04:49:03 Europe/Berlin] PHP Warning:  Undefined array key 5 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 43
+[24-Oct-2023 04:49:03 Europe/Berlin] PHP Warning:  Undefined array key 3 in C:\xampp\htdocs\app\surgeryQuote\saveSurgeryQuote.php on line 44

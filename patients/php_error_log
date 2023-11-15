@@ -1,0 +1,56 @@
+[17-Oct-2023 20:53:00 America/El_Salvador] queryValue: fellow2
+[17-Oct-2023 21:13:13 America/El_Salvador] queryValue: fellow2
+[17-Oct-2023 23:03:53 America/El_Salvador] queryValue: fellow2
+[17-Oct-2023 23:04:03 America/El_Salvador] queryValue: fellow2
+[17-Oct-2023 23:04:13 America/El_Salvador] queryValue: fellow2
+[18-Oct-2023 22:52:24 America/El_Salvador] queryValue: fellow2
+[21-Oct-2023 18:05:21 America/El_Salvador] queryValue: fellow2
+[21-Oct-2023 18:18:25 America/El_Salvador] queryValue: fellow2
+[21-Oct-2023 19:16:13 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 12:00:10 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 12:13:39 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 12:53:34 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 13:01:31 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 13:26:03 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 13:46:25 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 13:47:47 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 14:11:13 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 14:12:39 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 14:23:31 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 14:41:47 America/El_Salvador] queryValue: fellow2
+[03-Nov-2023 15:50:16 America/El_Salvador] queryValue: fellow2
+[07-Nov-2023 20:42:30 America/El_Salvador] queryValue: fellow2
+[07-Nov-2023 20:42:30 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'segundo' in 'where clause' in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php:18
+Stack trace:
+#0 C:\xampp\htdocs\app\patients\getPatientsByDoctor.php(18): mysqli->query('(SELECT * FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 18
+[07-Nov-2023 20:45:12 America/El_Salvador] queryValue: fellow2
+[07-Nov-2023 20:45:12 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'segundo' in 'where clause' in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php:18
+Stack trace:
+#0 C:\xampp\htdocs\app\patients\getPatientsByDoctor.php(18): mysqli->query('(SELECT * FROM ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 18
+[07-Nov-2023 20:51:41 America/El_Salvador] queryValue: fellow2
+[07-Nov-2023 20:51:53 America/El_Salvador] queryValue: fellow2
+[07-Nov-2023 20:52:15 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:08:24 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:08:43 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:09:06 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:09:27 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:10:27 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:34:15 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 17:34:15 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'a' from one of the SELECTs cannot be used in ORDER clause in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php:35
+Stack trace:
+#0 C:\xampp\htdocs\app\patients\getPatientsByDoctor.php(35): mysqli->query('SELECT a.pid, a...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 35
+[08-Nov-2023 17:37:26 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 19:29:46 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 19:35:08 America/El_Salvador] queryValue: fellow2
+[08-Nov-2023 19:35:08 America/El_Salvador] PHP Fatal error:  Uncaught mysqli_sql_exception: The used SELECT statements have a different number of columns in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php:24
+Stack trace:
+#0 C:\xampp\htdocs\app\patients\getPatientsByDoctor.php(24): mysqli->query('SELECT a.pid , ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 24
+[08-Nov-2023 19:41:28 America/El_Salvador] queryValue: fellow2

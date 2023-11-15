@@ -1,0 +1,31 @@
+[11-Oct-2023 03:26:18 Europe/Berlin] PHP Warning:  Attempt to read property "userName" on null in C:\xampp\htdocs\app\scheduleSurgery\validateUser.php on line 11
+[11-Oct-2023 03:26:26 Europe/Berlin] PHP Warning:  Undefined array key "patient" in C:\xampp\htdocs\app\patients\createLabOrder.php on line 5
+[11-Oct-2023 03:26:26 Europe/Berlin] PHP Warning:  Undefined array key "doctor" in C:\xampp\htdocs\app\patients\createLabOrder.php on line 6
+[11-Oct-2023 03:26:26 Europe/Berlin] PHP Warning:  Undefined array key "user" in C:\xampp\htdocs\app\patients\createLabOrder.php on line 7
+[11-Oct-2023 03:26:26 Europe/Berlin] PHP Warning:  Undefined variable $esteexamen in C:\xampp\htdocs\app\patients\createLabOrder.php on line 942
+[11-Oct-2023 03:26:26 Europe/Berlin] PHP Warning:  Attempt to read property "id" on null in C:\xampp\htdocs\app\patients\createLabOrder.php on line 942
+[11-Oct-2023 03:26:37 Europe/Berlin] PHP Warning:  Undefined array key "from" in C:\xampp\htdocs\app\common\getDoctors.php on line 5
+[11-Oct-2023 03:26:37 Europe/Berlin] PHP Warning:  Undefined array key "to" in C:\xampp\htdocs\app\common\getDoctors.php on line 8
+[11-Oct-2023 19:21:30 America/El_Salvador] PHP Warning:  Undefined variable $scheduleQueryResult in C:\xampp\htdocs\app\scheduleSurgery\saveSchedule.php on line 77
+[11-Oct-2023 19:21:30 America/El_Salvador] PHP Warning:  Attempt to read property "connect_error" on null in C:\xampp\htdocs\app\scheduleSurgery\saveSchedule.php on line 77
+[13-Oct-2023 12:04:00 America/Chicago] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in C:\Users\Developer 001\Desktop\bowlerhq\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php on line 563
+[16-Oct-2023 06:49:16 Europe/Berlin] PHP Warning:  Attempt to read property "userName" on null in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 8
+[16-Oct-2023 06:49:52 Europe/Berlin] PHP Warning:  Attempt to read property "patientId" on null in C:\xampp\htdocs\app\patients\getPatientDetails.php on line 8
+[16-Oct-2023 06:49:58 Europe/Berlin] PHP Warning:  Attempt to read property "userName" on null in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 8
+[16-Oct-2023 06:54:17 Europe/Berlin] PHP Warning:  Attempt to read property "userName" on null in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 8
+[16-Oct-2023 06:55:01 Europe/Berlin] PHP Warning:  Attempt to read property "userName" on null in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 8
+[16-Oct-2023 06:55:49 Europe/Berlin] PHP Warning:  Undefined array key "surgeryName" in C:\xampp\htdocs\app\patients\medicalIndications.php on line 13
+[16-Oct-2023 06:55:49 Europe/Berlin] PHP Warning:  Undefined array key "room" in C:\xampp\htdocs\app\patients\medicalIndications.php on line 14
+[16-Oct-2023 06:55:49 Europe/Berlin] PHP Warning:  Undefined array key "selectedDate" in C:\xampp\htdocs\app\patients\medicalIndications.php on line 15
+[16-Oct-2023 06:55:49 Europe/Berlin] PHP Warning:  Undefined array key "selectedDoctor" in C:\xampp\htdocs\app\patients\medicalIndications.php on line 16
+[17-Oct-2023 07:34:04 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[17-Oct-2023 07:35:12 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[17-Oct-2023 07:36:31 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[17-Oct-2023 07:43:25 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[17-Oct-2023 07:44:55 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[17-Oct-2023 07:45:23 Europe/Berlin] PHP Warning:  Undefined variable $user in C:\xampp\htdocs\app\scheduleSurgery\getUser.php on line 7
+[09-Nov-2023 00:30:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'a' from one of the SELECTs cannot be used in ORDER clause in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php:30
+Stack trace:
+#0 C:\xampp\htdocs\app\patients\getPatientsByDoctor.php(30): mysqli->query('SELECT a.pid, a...')
+#1 {main}
+  thrown in C:\xampp\htdocs\app\patients\getPatientsByDoctor.php on line 30
